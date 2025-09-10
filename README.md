@@ -1,5 +1,5 @@
 # Swahili Hate Speech Detection Model
-A machine learning model for detecting hate speech in Swahili text, deployed as a Flask web application with Docker support.
+A deep learning bert model for detecting hate speech in Swahili text, deployed as a Flask web application with Docker support.
 
 This project implements a hate speech detection system specifically designed for the Swahili language. The model can classify Swahili text as either containing hate speech or being neutral, helping to moderate content and promote safer online environments in Swahili-speaking communities.
 
